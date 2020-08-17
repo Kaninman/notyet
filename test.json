@@ -1,0 +1,59 @@
+{
+  "name": "gagw",
+  "title": "Galaan: Ashes of the Great  War",
+  "description": "<p>Galaan is a homebrew campaign setting, the GMBinder link is found <a href=\"https://www.gmbinder.com/share/-M2FFsHO6sxnyOAsIueU\">here.</a> The campaign will take place in the continent of Ruddahara, two years after the Great War ended. An important thing to note is that magic recently returned to the world only <strong>12</strong> years ago, after being at an all-time low for nearly three centuries. This three century period was known as the Dark Ages.</p>\n<p>In the Dark Ages, the highest degree of magic able to be casted by a mortal spellcaster (17th level) was only of <strong>third</strong> level, unless they possessed magic from a powerful patron. As a result, many spells beyond 3rd level became forgotten about as simply being exaggerations or rumors. Nowadays, many spellcasters are trying to recover ancient secrets and hone their spellcasting.</p>\n<p>Divine Magic, such as the ability to bring life back from the dead, only came back two years ago after <strong>two thousand</strong> <strong>years</strong> of being absent from the world, save for mystical springs, demonic deals, or the will of powerful nature spirits. As a result, <strong>revivify, raise dead, resurrection, and true resurrection are not innately available.</strong> In order to get such spells, they first must be available to your class's spell list, and your character must embark on a quest to unlock the secrets behind reviving the dead.</p>\n<p>More information on alterations to the core gameplay mechanics will be listed in the game.</p>\n<p><strong>Important:</strong><strong> <em>If you plan on being a Yarion, know that all Yarions are blamed for the Stone City and are often persecuted or treated with extreme prejudice.</em></strong></p>\n<p>The campaign begins with the party being delievered to their execution. As Sorkhasi society puts a high value on life, each state-mandated execution is done ceremoniously in 'blessed' grounds. After the second day of being transported, your wagon was attacked by something... Now only you and the rest of the party remain along with the creature that freed you. It seemed as though it saved you for last, however.</p>",
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.0.0",
+  "compatibleCoreVersion": "1.0.0",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "packs": [
+    {
+      "label": "Kantsu Homebrew",
+      "entity": "Item",
+      "name": "kantsu-homebrew",
+      "path": "packs/kantsu-homebrew.db",
+      "system": "dnd5e",
+      "package": "world",
+      "absPath": "C:\\Users\\Nirva\\AppData\\Local\\FoundryVTT\\Data\\worlds\\gagw\\packs\\kantsu-homebrew.db"
+    },
+    {
+      "label": "Galaan Races",
+      "entity": "Item",
+      "name": "galaan-races",
+      "path": "packs/galaan-races.db",
+      "system": "dnd5e",
+      "package": "world",
+      "absPath": "C:\\Users\\Nirva\\AppData\\Local\\FoundryVTT\\Data\\worlds\\gagw\\packs\\galaan-races.db"
+    },
+    {
+      "label": "Galaan Classes",
+      "entity": "Item",
+      "name": "galaan-classes",
+      "path": "packs/galaan-classes.db",
+      "system": "dnd5e",
+      "package": "world",
+      "absPath": "C:\\Users\\Nirva\\AppData\\Local\\FoundryVTT\\Data\\worlds\\gagw\\packs\\galaan-classes.db"
+    }
+  ],
+  "languages": [],
+  "authors": [],
+  "keywords": [],
+  "socket": false,
+  "url": "",
+  "manifest": "",
+  "download": "",
+  "license": "",
+  "readme": "",
+  "bugs": "",
+  "changelog": "",
+  "background": "",
+  "system": "dnd5e",
+  "coreVersion": "0.6.5",
+  "systemVersion": 0.94,
+  "nextSession": "",
+  "availability": 0,
+  "unavailable": false,
+  "id": "gagw"
+}
